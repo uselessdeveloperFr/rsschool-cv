@@ -6,7 +6,6 @@
 
 - Location: Krasnodar, Russia
 - [GitHub](https://github.com/uselessdeveloperFr)
-- email: webdevelopermiwa@gmail.com
 - [Telegram](https://t.me/uselesstearz)
 
 ---
